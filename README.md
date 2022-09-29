@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **R3DRUN3/R3DRUN3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <img src="emblem.png" width="700" high="300" title="banner">
+</p>
+
+
