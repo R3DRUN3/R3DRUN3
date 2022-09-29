@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <div style="width: 60%; height: 60%">
   
@@ -19,7 +18,11 @@ Here are some ideas to get you started:
   
 </div>
 
+-->
+
+
 # About me ✍️
-Just a collection of bits, constantly swinging from cyberspace to meatspace
+Just a collection of bits, 
+constantly swinging from cyberspace to meatspace.
 
 
