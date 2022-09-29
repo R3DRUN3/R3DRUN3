@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <img src="emblem.png" width="700" high="300" title="banner">
-</p>
+<div style="width: 60%; height: 60%">
+  
+  ![](emblem.png)
+  
+</div>
+
+# About me ✍️
+Just a collection of bits, constantly swinging from cyberspace to meatspace
 
 
