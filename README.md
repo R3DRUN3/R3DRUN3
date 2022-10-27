@@ -28,6 +28,20 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 <br/>
 
+<div id="header">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="500"/>
+</div>
+<br/>
+
+## 💁 Socials
+<div id="badges">
+  <a href="https://www.linkedin.com/in/simone-ragonesi-275567222/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+<br/>
+
+
 ## 🖥️ Technical Skills  ⚡
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&color=006bb3)
 ![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&color=00b33c)
@@ -39,10 +53,11 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&color=ff0000)
 ![](https://img.shields.io/badge/Tools-docker-informational?style=flat&logo=docker&color=0080ff)
-![](https://img.shields.io/badge/Tools-DBMS-informational?style=flat&logo=database&color=c2c2d6)
+![](https://img.shields.io/badge/Tools-terraform-informational?style=flat&logo=terraform&color=5c0099)
 <br/>
 ![](https://img.shields.io/badge/Tools-ansible-informational?style=flat&logo=ansible&color=001a00)
-![](https://img.shields.io/badge/Tools-terraform-informational?style=flat&logo=terraform&color=5c0099)
+![](https://img.shields.io/badge/Tools-DBMS-informational?style=flat&logo=database&color=c2c2d6)
+![](https://img.shields.io/badge/Tools-serverless-informational?style=flat&logo=serverless&color=ff5050)
 <br/>
 ![](https://img.shields.io/badge/Tools-vagrant-informational?style=flat&logo=vagrant&color=1a75ff)
 ![](https://img.shields.io/badge/Tools-vault-informational?style=flat&logo=vault&color=000000)
