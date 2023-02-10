@@ -87,6 +87,9 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 [![R3DRUN3's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3DRUN3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+
+## ✅ Contributions Graph ✅
 ![Snake animation](https://github.com/r3drun3/r3drun3/blob/output/github-contribution-grid-snake.svg)
 
 
