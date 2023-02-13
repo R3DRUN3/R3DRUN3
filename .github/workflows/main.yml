@@ -1,8 +1,8 @@
 name: Snake
 
 on:
-  schedule: # execute every 48 hours
-    - cron: "* */48 * * *"
+  schedule: # execute every 3 days
+    - cron: "0 0 */3 * *"
   workflow_dispatch:
 
 jobs:
