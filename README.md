@@ -33,6 +33,10 @@ constantly phasing between cyberspace and meatspace.
 </div>
 <br/>
 
+![](https://komarev.com/ghpvc/?username=r3drun3&label=PROFILE+VIEWS&color=brightgreen)
+
+<br/>
+
 ## 💁 Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/simone-ragonesi-275567222/">
