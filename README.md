@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 
 
 # About me ✍️
-Just a collection of bits,
+- Forecaster
+- IT guy
+- System and software engineer
+
+in the end just a collection of quantum bits,
 <br/>
 constantly phasing between cyberspace and meatspace.
 <br/>
