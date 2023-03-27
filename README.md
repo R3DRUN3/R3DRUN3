@@ -95,6 +95,10 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 [![R3DRUN3's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3DRUN3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <br/>
 
 ## ✅ Contributions Graph ✅
