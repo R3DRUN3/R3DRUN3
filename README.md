@@ -95,6 +95,7 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 [![R3DRUN3's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3DRUN3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/AIIIXIII/ASP.NET-Core-Weather-Forecast-Website/pull/3) in [AIIIXIII/ASP.NET-Core-Weather-Forecast-Website](https://github.com/AIIIXIII/ASP.NET-Core-Weather-Forecast-Website)
