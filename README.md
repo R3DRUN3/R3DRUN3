@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # About me ✍️
 - Forecaster
-- IT guy
+- Open source contributor
 - System and software engineer
 
 in the end just a collection of quantum bits,
