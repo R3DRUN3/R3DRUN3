@@ -98,11 +98,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/AIIIXIII/ASP.NET-Core-Weather-Forecast-Website/pull/3) in [AIIIXIII/ASP.NET-Core-Weather-Forecast-Website](https://github.com/AIIIXIII/ASP.NET-Core-Weather-Forecast-Website)
-2. 🎉 Merged PR [#1](https://github.com/R3DRUN3/provider-azuredevops/pull/1) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
-3. 🗣 Commented on [#1](https://github.com/R3DRUN3/provider-azuredevops/issues/1) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
-4. 💪 Opened PR [#324](https://github.com/CrowdStrike/gofalcon/pull/324) in [CrowdStrike/gofalcon](https://github.com/CrowdStrike/gofalcon)
-5. 🗣 Commented on [#116709](https://github.com/kubernetes/kubernetes/issues/116709) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 💪 Opened PR [#343](https://github.com/sighupio/furyctl/pull/343) in [sighupio/furyctl](https://github.com/sighupio/furyctl)
+2. ❌ Closed PR [#979](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/979) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. ❌ Closed PR [#211](https://github.com/GrapheneOS/hardened_malloc/pull/211) in [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
+4. ❌ Closed PR [#388](https://github.com/canonical/raft/pull/388) in [canonical/raft](https://github.com/canonical/raft)
+5. 💪 Opened PR [#339](https://github.com/sighupio/furyctl/pull/339) in [sighupio/furyctl](https://github.com/sighupio/furyctl)
 <!--END_SECTION:activity-->
 
 <br/>
