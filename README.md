@@ -98,11 +98,6 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#343](https://github.com/sighupio/furyctl/pull/343) in [sighupio/furyctl](https://github.com/sighupio/furyctl)
-2. ❌ Closed PR [#979](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/979) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. ❌ Closed PR [#211](https://github.com/GrapheneOS/hardened_malloc/pull/211) in [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
-4. ❌ Closed PR [#388](https://github.com/canonical/raft/pull/388) in [canonical/raft](https://github.com/canonical/raft)
-5. 💪 Opened PR [#339](https://github.com/sighupio/furyctl/pull/339) in [sighupio/furyctl](https://github.com/sighupio/furyctl)
 <!--END_SECTION:activity-->
 
 <br/>
