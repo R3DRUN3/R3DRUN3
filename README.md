@@ -98,11 +98,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#113](https://github.com/upbound/xgql/pull/113) in [upbound/xgql](https://github.com/upbound/xgql)
-2. 💪 Opened PR [#288](https://github.com/clastix/kamaji/pull/288) in [clastix/kamaji](https://github.com/clastix/kamaji)
-3. 💪 Opened PR [#343](https://github.com/sighupio/furyctl/pull/343) in [sighupio/furyctl](https://github.com/sighupio/furyctl)
-4. ❌ Closed PR [#979](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/979) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-5. ❌ Closed PR [#211](https://github.com/GrapheneOS/hardened_malloc/pull/211) in [GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
+1. 🎉 Merged PR [#2](https://github.com/R3DRUN3/provider-azuredevops/pull/2) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
+2. 💪 Opened PR [#2](https://github.com/R3DRUN3/provider-azuredevops/pull/2) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
+3. 💪 Opened PR [#45341](https://github.com/moby/moby/pull/45341) in [moby/moby](https://github.com/moby/moby)
+4. 💪 Opened PR [#18202](https://github.com/containers/podman/pull/18202) in [containers/podman](https://github.com/containers/podman)
+5. 🗣 Commented on [#340](https://github.com/unikraft/kraftkit/issues/340) in [unikraft/kraftkit](https://github.com/unikraft/kraftkit)
 <!--END_SECTION:activity-->
 
 <br/>
