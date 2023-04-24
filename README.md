@@ -98,11 +98,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/R3DRUN3/provider-azuredevops/pull/2) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
-2. 💪 Opened PR [#2](https://github.com/R3DRUN3/provider-azuredevops/pull/2) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
-3. 💪 Opened PR [#45341](https://github.com/moby/moby/pull/45341) in [moby/moby](https://github.com/moby/moby)
-4. 💪 Opened PR [#18202](https://github.com/containers/podman/pull/18202) in [containers/podman](https://github.com/containers/podman)
-5. 🗣 Commented on [#340](https://github.com/unikraft/kraftkit/issues/340) in [unikraft/kraftkit](https://github.com/unikraft/kraftkit)
+1. ❌ Closed PR [#45341](https://github.com/moby/moby/pull/45341) in [moby/moby](https://github.com/moby/moby)
+2. ❌ Closed PR [#3](https://github.com/R3DRUN3/provider-azuredevops/pull/3) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
+3. 💪 Opened PR [#3](https://github.com/R3DRUN3/provider-azuredevops/pull/3) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
+4. 🎉 Merged PR [#2](https://github.com/R3DRUN3/provider-azuredevops/pull/2) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
+5. 💪 Opened PR [#2](https://github.com/R3DRUN3/provider-azuredevops/pull/2) in [R3DRUN3/provider-azuredevops](https://github.com/R3DRUN3/provider-azuredevops)
 <!--END_SECTION:activity-->
 
 <br/>
