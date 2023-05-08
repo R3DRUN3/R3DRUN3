@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1159](https://github.com/tektoncd/catalog/issues/1159) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. ❗️ Opened issue [#1159](https://github.com/tektoncd/catalog/issues/1159) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 🗣 Commented on [#2898](https://github.com/tektoncd/dashboard/issues/2898) in [tektoncd/dashboard](https://github.com/tektoncd/dashboard)
+1. ❗️ Opened issue [#1161](https://github.com/tektoncd/catalog/issues/1161) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+2. 🗣 Commented on [#1159](https://github.com/tektoncd/catalog/issues/1159) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+3. ❗️ Opened issue [#1159](https://github.com/tektoncd/catalog/issues/1159) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 4. 🗣 Commented on [#2898](https://github.com/tektoncd/dashboard/issues/2898) in [tektoncd/dashboard](https://github.com/tektoncd/dashboard)
-5. ❗️ Opened issue [#2898](https://github.com/tektoncd/dashboard/issues/2898) in [tektoncd/dashboard](https://github.com/tektoncd/dashboard)
+5. 🗣 Commented on [#2898](https://github.com/tektoncd/dashboard/issues/2898) in [tektoncd/dashboard](https://github.com/tektoncd/dashboard)
 <!--END_SECTION:activity-->
 
 <br/>
