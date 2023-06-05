@@ -102,8 +102,8 @@ constantly phasing between cyberspace and meatspace.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1161](https://github.com/tektoncd/catalog/issues/1161) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 2. 🗣 Commented on [#5519](https://github.com/strimzi/strimzi-kafka-operator/issues/5519) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
-3. ❗️ Opened issue [#803](https://github.com/tektoncd/chains/issues/803) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. ❗️ Opened issue [#1161](https://github.com/tektoncd/catalog/issues/1161) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+3. ❗ Opened issue [#803](https://github.com/tektoncd/chains/issues/803) in [tektoncd/chains](https://github.com/tektoncd/chains)
+4. ❗ Opened issue [#1161](https://github.com/tektoncd/catalog/issues/1161) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 5. 🗣 Commented on [#1159](https://github.com/tektoncd/catalog/issues/1159) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
