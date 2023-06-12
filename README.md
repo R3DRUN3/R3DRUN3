@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1161](https://github.com/tektoncd/catalog/issues/1161) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-2. 🗣 Commented on [#5519](https://github.com/strimzi/strimzi-kafka-operator/issues/5519) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
-3. ❗ Opened issue [#803](https://github.com/tektoncd/chains/issues/803) in [tektoncd/chains](https://github.com/tektoncd/chains)
-4. ❗ Opened issue [#1161](https://github.com/tektoncd/catalog/issues/1161) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-5. 🗣 Commented on [#1159](https://github.com/tektoncd/catalog/issues/1159) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+1. 🗣 Commented on [#1976](https://github.com/GoogleContainerTools/kaniko/issues/1976) in [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko)
+2. 💪 Opened PR [#1](https://github.com/R3DRUN3/simple-web-app/pull/1) in [R3DRUN3/simple-web-app](https://github.com/R3DRUN3/simple-web-app)
+3. 🗣 Commented on [#1161](https://github.com/tektoncd/catalog/issues/1161) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
+4. 🗣 Commented on [#5519](https://github.com/strimzi/strimzi-kafka-operator/issues/5519) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
+5. ❗ Opened issue [#803](https://github.com/tektoncd/chains/issues/803) in [tektoncd/chains](https://github.com/tektoncd/chains)
 <!--END_SECTION:activity-->
 
 <br/>
