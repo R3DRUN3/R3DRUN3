@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1976](https://github.com/GoogleContainerTools/kaniko/issues/1976) in [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko)
-2. 💪 Opened PR [#1](https://github.com/R3DRUN3/simple-web-app/pull/1) in [R3DRUN3/simple-web-app](https://github.com/R3DRUN3/simple-web-app)
-3. 🗣 Commented on [#1161](https://github.com/tektoncd/catalog/issues/1161) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-4. 🗣 Commented on [#5519](https://github.com/strimzi/strimzi-kafka-operator/issues/5519) in [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)
-5. ❗ Opened issue [#803](https://github.com/tektoncd/chains/issues/803) in [tektoncd/chains](https://github.com/tektoncd/chains)
+1. ❗ Opened issue [#258](https://github.com/cyberark/conjur-puppet/issues/258) in [cyberark/conjur-puppet](https://github.com/cyberark/conjur-puppet)
+2. ❗ Opened issue [#191](https://github.com/cyberark/ansible-conjur-collection/issues/191) in [cyberark/ansible-conjur-collection](https://github.com/cyberark/ansible-conjur-collection)
+3. ❗ Opened issue [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
+4. 🗣 Commented on [#1976](https://github.com/GoogleContainerTools/kaniko/issues/1976) in [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko)
+5. 💪 Opened PR [#1](https://github.com/R3DRUN3/simple-web-app/pull/1) in [R3DRUN3/simple-web-app](https://github.com/R3DRUN3/simple-web-app)
 <!--END_SECTION:activity-->
 
 <br/>
