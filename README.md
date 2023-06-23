@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#803](https://github.com/tektoncd/chains/issues/803) in [tektoncd/chains](https://github.com/tektoncd/chains)
-2. 🗣 Commented on [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
+1. 💪 Opened PR [#23](https://github.com/ossf/s2c2f/pull/23) in [ossf/s2c2f](https://github.com/ossf/s2c2f)
+2. 🗣 Commented on [#803](https://github.com/tektoncd/chains/issues/803) in [tektoncd/chains](https://github.com/tektoncd/chains)
 3. 🗣 Commented on [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
-4. 🗣 Commented on [#258](https://github.com/cyberark/conjur-puppet/issues/258) in [cyberark/conjur-puppet](https://github.com/cyberark/conjur-puppet)
-5. ❗ Opened issue [#258](https://github.com/cyberark/conjur-puppet/issues/258) in [cyberark/conjur-puppet](https://github.com/cyberark/conjur-puppet)
+4. 🗣 Commented on [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
+5. 🗣 Commented on [#258](https://github.com/cyberark/conjur-puppet/issues/258) in [cyberark/conjur-puppet](https://github.com/cyberark/conjur-puppet)
 <!--END_SECTION:activity-->
 
 <br/>
