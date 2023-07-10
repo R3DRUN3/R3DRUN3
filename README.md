@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
-2. 🗣 Commented on [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
-3. 🗣 Commented on [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
-4. 🗣 Commented on [#23](https://github.com/ossf/s2c2f/issues/23) in [ossf/s2c2f](https://github.com/ossf/s2c2f)
-5. 💪 Opened PR [#23](https://github.com/ossf/s2c2f/pull/23) in [ossf/s2c2f](https://github.com/ossf/s2c2f)
+1. ❗ Opened issue [#8](https://github.com/R3DRUN3/content-sync-tester/issues/8) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+2. 🔒 Closed issue [#7](https://github.com/R3DRUN3/content-sync-tester/issues/7) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+3. ❗ Opened issue [#7](https://github.com/R3DRUN3/content-sync-tester/issues/7) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+4. 🔒 Closed issue [#6](https://github.com/R3DRUN3/content-sync-tester/issues/6) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+5. 🔒 Closed issue [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
 <!--END_SECTION:activity-->
 
 <br/>
