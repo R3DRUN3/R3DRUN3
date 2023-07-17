@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/R3DRUN3/content-sync-tester/issues/8) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-2. 🔒 Closed issue [#7](https://github.com/R3DRUN3/content-sync-tester/issues/7) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-3. ❗ Opened issue [#7](https://github.com/R3DRUN3/content-sync-tester/issues/7) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-4. 🔒 Closed issue [#6](https://github.com/R3DRUN3/content-sync-tester/issues/6) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-5. 🔒 Closed issue [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
+1. 🔒 Closed issue [#21](https://github.com/R3DRUN3/content-sync-tester/issues/21) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+2. ❗ Opened issue [#21](https://github.com/R3DRUN3/content-sync-tester/issues/21) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+3. 🔒 Closed issue [#20](https://github.com/R3DRUN3/content-sync-tester/issues/20) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+4. ❗ Opened issue [#20](https://github.com/R3DRUN3/content-sync-tester/issues/20) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+5. 🔒 Closed issue [#19](https://github.com/R3DRUN3/content-sync-tester/issues/19) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
 <!--END_SECTION:activity-->
 
 <br/>
