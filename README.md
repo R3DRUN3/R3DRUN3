@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#21](https://github.com/R3DRUN3/content-sync-tester/issues/21) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-2. ❗ Opened issue [#21](https://github.com/R3DRUN3/content-sync-tester/issues/21) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-3. 🔒 Closed issue [#20](https://github.com/R3DRUN3/content-sync-tester/issues/20) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-4. ❗ Opened issue [#20](https://github.com/R3DRUN3/content-sync-tester/issues/20) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-5. 🔒 Closed issue [#19](https://github.com/R3DRUN3/content-sync-tester/issues/19) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+1. 💪 Opened PR [#2](https://github.com/R3DRUN3/gate/pull/2) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
+2. 🔒 Closed issue [#21](https://github.com/R3DRUN3/content-sync-tester/issues/21) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+3. ❗ Opened issue [#21](https://github.com/R3DRUN3/content-sync-tester/issues/21) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+4. 🔒 Closed issue [#20](https://github.com/R3DRUN3/content-sync-tester/issues/20) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+5. ❗ Opened issue [#20](https://github.com/R3DRUN3/content-sync-tester/issues/20) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
 <!--END_SECTION:activity-->
 
 <br/>
