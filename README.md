@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/R3DRUN3/gate/pull/2) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
-2. 💪 Opened PR [#22](https://github.com/ossf/wg-endusers/pull/22) in [ossf/wg-endusers](https://github.com/ossf/wg-endusers)
-3. 💪 Opened PR [#734](https://github.com/opentffoundation/manifesto/pull/734) in [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)
-4. 💪 Opened PR [#2](https://github.com/R3DRUN3/gate/pull/2) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
-5. ❗ Opened issue [#21](https://github.com/R3DRUN3/content-sync-tester/issues/21) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+1. 💪 Opened PR [#63](https://github.com/fiatjaf/noscl/pull/63) in [fiatjaf/noscl](https://github.com/fiatjaf/noscl)
+2. 🎉 Merged PR [#2](https://github.com/R3DRUN3/gate/pull/2) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
+3. 💪 Opened PR [#22](https://github.com/ossf/wg-endusers/pull/22) in [ossf/wg-endusers](https://github.com/ossf/wg-endusers)
+4. 💪 Opened PR [#734](https://github.com/opentffoundation/manifesto/pull/734) in [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)
+5. 💪 Opened PR [#2](https://github.com/R3DRUN3/gate/pull/2) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
 <!--END_SECTION:activity-->
 
 <br/>
