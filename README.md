@@ -100,11 +100,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/nbd-wtf/go-nostr/issues/105#issuecomment-1750287104) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
-2. 🗣 Commented on [#105](https://github.com/nbd-wtf/go-nostr/issues/105#issuecomment-1750069637) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
-3. ❗ Opened issue [#105](https://github.com/nbd-wtf/go-nostr/issues/105) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
-4. 💪 Opened PR [#63](https://github.com/fiatjaf/noscl/pull/63) in [fiatjaf/noscl](https://github.com/fiatjaf/noscl)
-5. 🎉 Merged PR [#2](https://github.com/R3DRUN3/gate/pull/2) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
+1. 💪 Opened PR [#14535](https://github.com/cloudquery/cloudquery/pull/14535) in [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)
+2. 🗣 Commented on [#105](https://github.com/nbd-wtf/go-nostr/issues/105#issuecomment-1750287104) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
+3. 🗣 Commented on [#105](https://github.com/nbd-wtf/go-nostr/issues/105#issuecomment-1750069637) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
+4. ❗ Opened issue [#105](https://github.com/nbd-wtf/go-nostr/issues/105) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
+5. 💪 Opened PR [#63](https://github.com/fiatjaf/noscl/pull/63) in [fiatjaf/noscl](https://github.com/fiatjaf/noscl)
 <!--END_SECTION:activity-->
 
 <br/>
