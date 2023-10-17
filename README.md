@@ -47,8 +47,12 @@ constantly phasing between cyberspace and meatspace.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
+
+
+  <a href="https://coracle.social/npub1rusgp3upyrtpsy2pcqznl6e8hejg9ne8u2eg05gzc4n2cctsugksvcx2np">
+  <img src="images/nostr-banner.png" alt="Nostro Badge" style="width: 111px; height: 70px;"/>
+</a>
   
-  `nostr public key` npub1rusgp3upyrtpsy2pcqznl6e8hejg9ne8u2eg05gzc4n2cctsugksvcx2np
 <br/>
 
 
