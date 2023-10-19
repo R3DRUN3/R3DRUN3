@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 # About me ✍️
 - Forecaster
-- Open source contributor
-- System and software engineer
+- Open Source Contributor
+- Cloud Native Engineer
 
 in the end just a collection of quantum bits,
 <br/>
