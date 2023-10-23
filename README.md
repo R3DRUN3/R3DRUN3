@@ -104,11 +104,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14535](https://github.com/cloudquery/cloudquery/pull/14535) in [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)
-2. 🗣 Commented on [#105](https://github.com/nbd-wtf/go-nostr/issues/105#issuecomment-1750287104) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
-3. 🗣 Commented on [#105](https://github.com/nbd-wtf/go-nostr/issues/105#issuecomment-1750069637) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
-4. ❗ Opened issue [#105](https://github.com/nbd-wtf/go-nostr/issues/105) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
-5. 💪 Opened PR [#63](https://github.com/fiatjaf/noscl/pull/63) in [fiatjaf/noscl](https://github.com/fiatjaf/noscl)
+1. 💪 Opened PR [#359](https://github.com/aljazceru/awesome-nostr/pull/359) in [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)
+2. ❌ Closed PR [#1](https://github.com/R3DRUN3/github-content-sync/pull/1) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+3. 🗣 Commented on [#14535](https://github.com/cloudquery/cloudquery/pull/14535#issuecomment-1764059776) in [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)
+4. 💪 Opened PR [#14535](https://github.com/cloudquery/cloudquery/pull/14535) in [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)
+5. 🗣 Commented on [#105](https://github.com/nbd-wtf/go-nostr/issues/105#issuecomment-1750287104) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
 <!--END_SECTION:activity-->
 
 <br/>
