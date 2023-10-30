@@ -104,11 +104,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#359](https://github.com/aljazceru/awesome-nostr/pull/359) in [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)
-2. ❌ Closed PR [#1](https://github.com/R3DRUN3/github-content-sync/pull/1) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-3. 🗣 Commented on [#14535](https://github.com/cloudquery/cloudquery/pull/14535#issuecomment-1764059776) in [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)
-4. 💪 Opened PR [#14535](https://github.com/cloudquery/cloudquery/pull/14535) in [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)
-5. 🗣 Commented on [#105](https://github.com/nbd-wtf/go-nostr/issues/105#issuecomment-1750287104) in [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr)
+1. 💪 Opened PR [#2050](https://github.com/btcsuite/btcd/pull/2050) in [btcsuite/btcd](https://github.com/btcsuite/btcd)
+2. 💪 Opened PR [#1435](https://github.com/bitcoin-core/secp256k1/pull/1435) in [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)
+3. 💪 Opened PR [#290](https://github.com/lightninglabs/neutrino/pull/290) in [lightninglabs/neutrino](https://github.com/lightninglabs/neutrino)
+4. 💪 Opened PR [#8123](https://github.com/lightningnetwork/lnd/pull/8123) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
+5. 💪 Opened PR [#359](https://github.com/aljazceru/awesome-nostr/pull/359) in [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)
 <!--END_SECTION:activity-->
 
 <br/>
