@@ -104,11 +104,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2050](https://github.com/btcsuite/btcd/pull/2050) in [btcsuite/btcd](https://github.com/btcsuite/btcd)
-2. 💪 Opened PR [#1435](https://github.com/bitcoin-core/secp256k1/pull/1435) in [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)
-3. 💪 Opened PR [#290](https://github.com/lightninglabs/neutrino/pull/290) in [lightninglabs/neutrino](https://github.com/lightninglabs/neutrino)
-4. 💪 Opened PR [#8123](https://github.com/lightningnetwork/lnd/pull/8123) in [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
-5. 💪 Opened PR [#359](https://github.com/aljazceru/awesome-nostr/pull/359) in [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)
+1. ❌ Closed PR [#290](https://github.com/lightninglabs/neutrino/pull/290) in [lightninglabs/neutrino](https://github.com/lightninglabs/neutrino)
+2. ❌ Closed PR [#1435](https://github.com/bitcoin-core/secp256k1/pull/1435) in [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)
+3. 💪 Opened PR [#2050](https://github.com/btcsuite/btcd/pull/2050) in [btcsuite/btcd](https://github.com/btcsuite/btcd)
+4. 💪 Opened PR [#1435](https://github.com/bitcoin-core/secp256k1/pull/1435) in [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)
+5. 💪 Opened PR [#290](https://github.com/lightninglabs/neutrino/pull/290) in [lightninglabs/neutrino](https://github.com/lightninglabs/neutrino)
 <!--END_SECTION:activity-->
 
 <br/>
