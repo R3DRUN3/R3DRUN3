@@ -104,11 +104,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#290](https://github.com/lightninglabs/neutrino/pull/290) in [lightninglabs/neutrino](https://github.com/lightninglabs/neutrino)
-2. ❌ Closed PR [#1435](https://github.com/bitcoin-core/secp256k1/pull/1435) in [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)
-3. 💪 Opened PR [#2050](https://github.com/btcsuite/btcd/pull/2050) in [btcsuite/btcd](https://github.com/btcsuite/btcd)
-4. 💪 Opened PR [#1435](https://github.com/bitcoin-core/secp256k1/pull/1435) in [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)
-5. 💪 Opened PR [#290](https://github.com/lightninglabs/neutrino/pull/290) in [lightninglabs/neutrino](https://github.com/lightninglabs/neutrino)
+1. 🗣 Commented on [#2050](https://github.com/btcsuite/btcd/pull/2050#issuecomment-1805313726) in [btcsuite/btcd](https://github.com/btcsuite/btcd)
+2. 🔒 Closed issue [#31](https://github.com/R3DRUN3/content-sync-tester/issues/31) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+3. ❗ Opened issue [#31](https://github.com/R3DRUN3/content-sync-tester/issues/31) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
+4. 🗣 Commented on [#2](https://github.com/R3DRUN3/github-content-sync/issues/2#issuecomment-1804080061) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+5. 🔒 Closed issue [#2](https://github.com/R3DRUN3/github-content-sync/issues/2) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 <!--END_SECTION:activity-->
 
 <br/>
