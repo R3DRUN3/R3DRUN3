@@ -56,7 +56,7 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 
 
-## 🖥️ Technical Skills  ⚡
+## 🖥️ Technical Skills and Stacks ⚡
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&color=006bb3)
 ![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&color=00b33c)
 <br/>
@@ -65,27 +65,39 @@ constantly phasing between cyberspace and meatspace.
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&color=ffff1a)
 <br/>
 <br/>
-![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&color=ff0000)
-![](https://img.shields.io/badge/Tools-docker-informational?style=flat&logo=docker&color=0080ff)
-![](https://img.shields.io/badge/Tools-terraform-informational?style=flat&logo=terraform&color=5c0099)
+![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git&color=ff0000)
+![](https://img.shields.io/badge/Tool-docker-informational?style=flat&logo=docker&color=0080ff)
+![](https://img.shields.io/badge/Tool-terraform-informational?style=flat&logo=terraform&color=5c0099)
 <br/>
-![](https://img.shields.io/badge/Tools-ansible-informational?style=flat&logo=ansible&color=001a00)
-![](https://img.shields.io/badge/Tools-DBMS-informational?style=flat&logo=database&color=c2c2d6)
-![](https://img.shields.io/badge/Tools-serverless-informational?style=flat&logo=serverless&color=ff5050)
+![](https://img.shields.io/badge/Tool-ansible-informational?style=flat&logo=ansible&color=001a00)
+![](https://img.shields.io/badge/Tool-DBMS-informational?style=flat&logo=database&color=c2c2d6)
+![](https://img.shields.io/badge/Tool-serverless-informational?style=flat&logo=serverless&color=ff5050)
 <br/>
-![](https://img.shields.io/badge/Tools-vagrant-informational?style=flat&logo=vagrant&color=1a75ff)
-![](https://img.shields.io/badge/Tools-vault-informational?style=flat&logo=vault&color=000000)
-![](https://img.shields.io/badge/Tools-k8s-informational?style=flat&logo=kubernetes&color=006bb3)
+![](https://img.shields.io/badge/Tool-vagrant-informational?style=flat&logo=vagrant&color=1a75ff)
+![](https://img.shields.io/badge/Tool-vault-informational?style=flat&logo=vault&color=000000)
+![](https://img.shields.io/badge/Tool-kubernetes-informational?style=flat&logo=kubernetes&color=006bb3)
+<br/>
+![](https://img.shields.io/badge/Tool-cilium-informational?style=flat&logo=cilium&color=34F727)
+![](https://img.shields.io/badge/Tool-snyk-informational?style=flat&logo=snyk&color=9538F3)
+![](https://img.shields.io/badge/Tool-tekton-informational?style=flat&logo=tektonk&color=279CF7)
+<br/>
+![](https://img.shields.io/badge/Tool-GitHub_Actions-informational?style=flat&logo=github-actions&color=6524E8)
+![](https://img.shields.io/badge/Tool-OPA-informational?style=flat&logo=open-policy-agent&color=B6BFC5)
+![](https://img.shields.io/badge/Tool-rabbitmq-informational?style=flat&logo=rabbitmq&color=E87D24)
+<br/>
+![](https://img.shields.io/badge/Tool-redis-informational?style=flat&logo=redis&color=E73D1F)
+![](https://img.shields.io/badge/Tool-falco-informational?style=flat&logo=falco&color=1FDEE4)
+![](https://img.shields.io/badge/Tool-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
 <br/>
 <br/>
 ![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&color=ffbf80)
 ![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&color=008AD7)
-![](https://img.shields.io/badge/OS-macos-informational?style=flat&logo=apple&color=008AD7)
+![](https://img.shields.io/badge/OS-macos-informational?style=flat&logo=apple&color=BF40BF)
 <br/>
 <br/>
 ![](https://img.shields.io/badge/Cloud-aws-informational?style=flat&logo=amazon&color=ffa64d)
 ![](https://img.shields.io/badge/Cloud-azure-informational?style=flat&logo=microsoftazure&color=008AD7)
-![](https://img.shields.io/badge/Cloud-gcp-informational?style=flat&logo=googlecloud&color=0080ff)
+![](https://img.shields.io/badge/Cloud-gcp-informational?style=flat&logo=googlecloud&color=ff0000)
 
 <br/>
 <br/>
