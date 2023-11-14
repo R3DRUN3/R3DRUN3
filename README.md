@@ -104,11 +104,11 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2050](https://github.com/btcsuite/btcd/pull/2050#issuecomment-1805313726) in [btcsuite/btcd](https://github.com/btcsuite/btcd)
-2. 🔒 Closed issue [#31](https://github.com/R3DRUN3/content-sync-tester/issues/31) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-3. ❗ Opened issue [#31](https://github.com/R3DRUN3/content-sync-tester/issues/31) in [R3DRUN3/content-sync-tester](https://github.com/R3DRUN3/content-sync-tester)
-4. 🗣 Commented on [#2](https://github.com/R3DRUN3/github-content-sync/issues/2#issuecomment-1804080061) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-5. 🔒 Closed issue [#2](https://github.com/R3DRUN3/github-content-sync/issues/2) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+1. 💪 Opened PR [#3036](https://github.com/prowler-cloud/prowler/pull/3036) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+2. 🗣 Commented on [#3027](https://github.com/prowler-cloud/prowler/pull/3027#issuecomment-1808687034) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+3. ❌ Closed PR [#3027](https://github.com/prowler-cloud/prowler/pull/3027) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+4. 🗣 Commented on [#3027](https://github.com/prowler-cloud/prowler/pull/3027#issuecomment-1808621932) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+5. 🗣 Commented on [#3027](https://github.com/prowler-cloud/prowler/pull/3027#issuecomment-1808585147) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 <!--END_SECTION:activity-->
 
 <br/>
