@@ -56,7 +56,7 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 
 
-## 🖥️ Technical Skills and Stacks ⚡
+## 🖥️ Technical Stack ⚡
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&color=006bb3)
 ![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&color=00b33c)
 <br/>
