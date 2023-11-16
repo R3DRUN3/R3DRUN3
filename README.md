@@ -85,6 +85,10 @@ constantly phasing between cyberspace and meatspace.
 ![](https://img.shields.io/badge/Tool-OPA-informational?style=flat&logo=open-policy-agent&color=B6BFC5)
 ![](https://img.shields.io/badge/Tool-rabbitmq-informational?style=flat&logo=rabbitmq&color=E87D24)
 <br/>
+![](https://img.shields.io/badge/Tool-jenkins-informational?style=flat&logo=jenkins&color=47464B)
+![](https://img.shields.io/badge/Tool-gitlab-informational?style=flat&logo=gitlab&color=47464B)
+![](https://img.shields.io/badge/Tool-chainguard-informational?style=flat&logo=chainguard&color=141DE8)
+<br/>
 ![](https://img.shields.io/badge/Tool-redis-informational?style=flat&logo=redis&color=E73D1F)
 ![](https://img.shields.io/badge/Tool-falco-informational?style=flat&logo=falco&color=1FDEE4)
 ![](https://img.shields.io/badge/Tool-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
