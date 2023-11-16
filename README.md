@@ -90,6 +90,9 @@ constantly phasing between cyberspace and meatspace.
 ![](https://img.shields.io/badge/Tool-gitlab-informational?style=flat&logo=gitlab&color=47464B)
 ![](https://img.shields.io/badge/Tool-chainguard-informational?style=flat&logo=chainguard&color=141DE8)
 <br/>
+![](https://img.shields.io/badge/Tool-graphql-informational?style=flat&logo=graphql&color=F159B1)
+![](https://img.shields.io/badge/Tool-elasticsearch-informational?style=flat&logo=elasticsearch&color=F0DD1F)
+<br/>
 ![](https://img.shields.io/badge/Tool-redis-informational?style=flat&logo=redis&color=E73D1F)
 ![](https://img.shields.io/badge/Tool-falco-informational?style=flat&logo=falco&color=1FDEE4)
 ![](https://img.shields.io/badge/Tool-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
@@ -102,7 +105,7 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 ![](https://img.shields.io/badge/Cloud-aws-informational?style=flat&logo=amazon&color=ffa64d)
 ![](https://img.shields.io/badge/Cloud-azure-informational?style=flat&logo=microsoftazure&color=008AD7)
-![](https://img.shields.io/badge/Cloud-gcp-informational?style=flat&logo=googlecloud&color=ff0000)
+![](https://img.shields.io/badge/Cloud-gcp-informational?style=flat&logo=googlecloud&color=F0521F)
 
 <br/>
 <br/>
