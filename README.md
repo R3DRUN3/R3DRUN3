@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 
 # About me ✍️
-- Forecaster
-- Open Source Contributor
-- Cloud Native Engineer
+- **Forecaster**
+- **Open Source Contributor**
+- **Cloud Native Engineer**
+- ![](https://img.shields.io/badge/Running-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
 
 in the end just a collection of quantum bits,
 <br/>
@@ -92,7 +93,6 @@ constantly phasing between cyberspace and meatspace.
 ![](https://img.shields.io/badge/Tool-elasticsearch-informational?style=flat&logo=elasticsearch&color=F0DD1F)
 ![](https://img.shields.io/badge/Tool-redis-informational?style=flat&logo=redis&color=E73D1F)
 ![](https://img.shields.io/badge/Tool-falco-informational?style=flat&logo=falco&color=1FDEE4)
-![](https://img.shields.io/badge/Tool-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
 <br/>
 <br/>
 ![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&color=ffbf80)
