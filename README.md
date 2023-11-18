@@ -60,10 +60,11 @@ constantly phasing between cyberspace and meatspace.
 
 ## 🖥️ Technical Stack ⚡
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&color=006bb3)
-![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&color=00b33c)
-<br/>
 ![](https://img.shields.io/badge/Code-.net-informational?style=flat&logo=.net&color=9933ff)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ace6)
+<br/>
+![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&color=00b33c)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=C13618)
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&color=ffff1a)
 <br/>
 <br/>
