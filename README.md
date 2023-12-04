@@ -122,7 +122,7 @@ constantly phasing between cyberspace and meatspace.
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3036](https://github.com/prowler-cloud/prowler/pull/3036) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+1. 💪 Opened PR [#3](https://github.com/R3DRUN3/gate/pull/3) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
 2. 🗣 Commented on [#3027](https://github.com/prowler-cloud/prowler/pull/3027#issuecomment-1808687034) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 3. ❌ Closed PR [#3027](https://github.com/prowler-cloud/prowler/pull/3027) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 4. 🗣 Commented on [#3027](https://github.com/prowler-cloud/prowler/pull/3027#issuecomment-1808621932) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
