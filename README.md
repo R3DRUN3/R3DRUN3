@@ -57,6 +57,9 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 <br/>
 
+I run my own *Bitcoin* and *Lightning* nodes in my home lab,  
+if you want to offer me a coffee you can send some sats at r3drun3@getalby.com 😊
+
 
 ## 🖥️ Technical Stack ⚡
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&color=006bb3)
