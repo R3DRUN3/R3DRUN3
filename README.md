@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # About me ✍️
 - **Forecaster**
 - **Open Source Contributor**
-- **Cloud Native Engineer**
+- **Security and Automation Engineer**
 - ![](https://img.shields.io/badge/Running-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
 
 in the end just a collection of quantum bits,
