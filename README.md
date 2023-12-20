@@ -127,9 +127,9 @@ If you'd like to buy me a ☕ you can send some *sats* to me@ln.stackzoo.io. �
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/R3DRUN3/gate/pull/3) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
-2. 🗣 Commented on [#3027](https://github.com/prowler-cloud/prowler/pull/3027#issuecomment-1808687034) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
-3. ❌ Closed PR [#3027](https://github.com/prowler-cloud/prowler/pull/3027) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+1. 💪 Opened PR [#198](https://github.com/getAlby/nostr-wallet-connect/pull/198) in [getAlby/nostr-wallet-connect](https://github.com/getAlby/nostr-wallet-connect)
+2. 🎉 Merged PR [#3](https://github.com/R3DRUN3/github-content-sync/pull/3) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+3. 💪 Opened PR [#3](https://github.com/R3DRUN3/gate/pull/3) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
 4. 🗣 Commented on [#3027](https://github.com/prowler-cloud/prowler/pull/3027#issuecomment-1808621932) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 5. 🗣 Commented on [#3027](https://github.com/prowler-cloud/prowler/pull/3027#issuecomment-1808585147) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 <!--END_SECTION:activity-->
