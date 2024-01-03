@@ -139,11 +139,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/project-copacetic/copa-action/pull/21) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
-2. 💪 Opened PR [#86](https://github.com/bcongdon/awesome-lightning-network/pull/86) in [bcongdon/awesome-lightning-network](https://github.com/bcongdon/awesome-lightning-network)
-3. 🎉 Merged PR [#3](https://github.com/R3DRUN3/gate/pull/3) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
-4. 💪 Opened PR [#198](https://github.com/getAlby/nostr-wallet-connect/pull/198) in [getAlby/nostr-wallet-connect](https://github.com/getAlby/nostr-wallet-connect)
-5. 🎉 Merged PR [#3](https://github.com/R3DRUN3/github-content-sync/pull/3) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+1. 💪 Opened PR [#503](https://github.com/kudobuilder/kuttl/pull/503) in [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl)
+2. 💪 Opened PR [#21](https://github.com/project-copacetic/copa-action/pull/21) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
+3. 💪 Opened PR [#86](https://github.com/bcongdon/awesome-lightning-network/pull/86) in [bcongdon/awesome-lightning-network](https://github.com/bcongdon/awesome-lightning-network)
+4. 🎉 Merged PR [#3](https://github.com/R3DRUN3/gate/pull/3) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
+5. 💪 Opened PR [#198](https://github.com/getAlby/nostr-wallet-connect/pull/198) in [getAlby/nostr-wallet-connect](https://github.com/getAlby/nostr-wallet-connect)
 <!--END_SECTION:activity-->
 
 <br/>
