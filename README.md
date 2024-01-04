@@ -54,8 +54,11 @@ constantly phasing between cyberspace and meatspace.
   <a href="https://coracle.social/npub1rusgp3upyrtpsy2pcqznl6e8hejg9ne8u2eg05gzc4n2cctsugksvcx2np">
   <img src="images/nostr-banner.png" alt="Nostro Badge" style="width: 111px; height: 55px;"/>
 
+  </a>
+
   <a href="https://stacker.news/r3drun3">
   <img src="images/sn.png" alt="Stacker News" style="width: 111px; height: 60px;"/>
+   </a>
 </a>
   
 <br/>
