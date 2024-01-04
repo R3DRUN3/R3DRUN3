@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 
 # About me ✍️
+I am ᚱᛊᚧᚱVᚺᛊ  
+
 - **Forecaster**
 - **Open Source Contributor**
 - **Security and Automation Engineer**
