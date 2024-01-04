@@ -48,20 +48,20 @@ constantly phasing between cyberspace and meatspace.
   <a href="https://www.linkedin.com/in/simone-ragonesi-275567222/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </div>
+</div>
 
 <div id="nostr">
   <a href="https://coracle.social/npub1rusgp3upyrtpsy2pcqznl6e8hejg9ne8u2eg05gzc4n2cctsugksvcx2np">
-  <img src="images/nostr-banner.png" alt="Nostro Badge" style="width: 111px; height: 55px;"/>
-
+    <img src="images/nostr-banner.png" alt="Nostro Badge" width="111" height="55"/>
   </a>
-  </div>
+</div>
 
 <div id="sn">
   <a href="https://stacker.news/r3drun3">
-  <img src="images/sn.png" alt="Stacker News" style="width: 111px; height: 60px;"/>
-   </a>
-  </div>
+    <img src="images/sn.png" alt="Stacker News" width="111" height="60"/>
+  </a>
+</div>
+
   
 <br/>
 <br/>
