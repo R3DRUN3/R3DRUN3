@@ -153,10 +153,10 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/R3DRUN3/github-content-sync/pull/4) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-2. 💪 Opened PR [#21](https://github.com/project-copacetic/copa-action/pull/21) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
-3. 💪 Opened PR [#86](https://github.com/bcongdon/awesome-lightning-network/pull/86) in [bcongdon/awesome-lightning-network](https://github.com/bcongdon/awesome-lightning-network)
-4. 🎉 Merged PR [#3](https://github.com/R3DRUN3/gate/pull/3) in [R3DRUN3/gate](https://github.com/R3DRUN3/gate)
+1. 💪 Opened PR [#63](https://github.com/sottlmarek/DevSecOps/pull/63) in [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
+2. 🗣 Commented on [#472](https://github.com/project-copacetic/copacetic/issues/472#issuecomment-1894987921) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
+3. 🗣 Commented on [#3235](https://github.com/sigstore/cosign/issues/3235#issuecomment-1893477985) in [sigstore/cosign](https://github.com/sigstore/cosign)
+4. ❗ Opened issue [#472](https://github.com/project-copacetic/copacetic/issues/472) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
 5. 💪 Opened PR [#198](https://github.com/getAlby/nostr-wallet-connect/pull/198) in [getAlby/nostr-wallet-connect](https://github.com/getAlby/nostr-wallet-connect)
 <!--END_SECTION:activity-->
 
