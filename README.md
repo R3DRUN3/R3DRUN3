@@ -153,11 +153,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/sottlmarek/DevSecOps/pull/63) in [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
-2. 🗣 Commented on [#472](https://github.com/project-copacetic/copacetic/issues/472#issuecomment-1894987921) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
-3. 🗣 Commented on [#3235](https://github.com/sigstore/cosign/issues/3235#issuecomment-1893477985) in [sigstore/cosign](https://github.com/sigstore/cosign)
-4. ❗ Opened issue [#472](https://github.com/project-copacetic/copacetic/issues/472) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
-5. 💪 Opened PR [#198](https://github.com/getAlby/nostr-wallet-connect/pull/198) in [getAlby/nostr-wallet-connect](https://github.com/getAlby/nostr-wallet-connect)
+1. ❗ Opened issue [#28](https://github.com/project-copacetic/copa-action/issues/28) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
+2. 💪 Opened PR [#63](https://github.com/sottlmarek/DevSecOps/pull/63) in [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
+3. 🗣 Commented on [#472](https://github.com/project-copacetic/copacetic/issues/472#issuecomment-1894987921) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
+4. 🗣 Commented on [#3235](https://github.com/sigstore/cosign/issues/3235#issuecomment-1893477985) in [sigstore/cosign](https://github.com/sigstore/cosign)
+5. ❗ Opened issue [#472](https://github.com/project-copacetic/copacetic/issues/472) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
 <!--END_SECTION:activity-->
 
 <br/>
