@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-# About me ✍️
-ᚱᛊᚧᚱVᚺᛊ  
+# About ᚱᛊᚧᚱVᚺᛊ  ✍️  
 
 - **Forecaster**
 - **Open Source Contributor**
