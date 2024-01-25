@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 # About me ✍️
-I am ᚱᛊᚧᚱVᚺᛊ  
+ᚱᛊᚧᚱVᚺᛊ  
 
 - **Forecaster**
 - **Open Source Contributor**
