@@ -153,11 +153,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/project-copacetic/copa-action/issues/28) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
-2. 💪 Opened PR [#63](https://github.com/sottlmarek/DevSecOps/pull/63) in [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
-3. 🗣 Commented on [#472](https://github.com/project-copacetic/copacetic/issues/472#issuecomment-1894987921) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
-4. 🗣 Commented on [#3235](https://github.com/sigstore/cosign/issues/3235#issuecomment-1893477985) in [sigstore/cosign](https://github.com/sigstore/cosign)
-5. ❗ Opened issue [#472](https://github.com/project-copacetic/copacetic/issues/472) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
+1. 💪 Opened PR [#2873](https://github.com/keptn/lifecycle-toolkit/pull/2873) in [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
+2. ❗ Opened issue [#2872](https://github.com/keptn/lifecycle-toolkit/issues/2872) in [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
+3. ❗ Opened issue [#28](https://github.com/project-copacetic/copa-action/issues/28) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
+4. 💪 Opened PR [#63](https://github.com/sottlmarek/DevSecOps/pull/63) in [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
+5. 🗣 Commented on [#472](https://github.com/project-copacetic/copacetic/issues/472#issuecomment-1894987921) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
 <!--END_SECTION:activity-->
 
 <br/>
