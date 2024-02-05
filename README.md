@@ -161,11 +161,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2873](https://github.com/keptn/lifecycle-toolkit/pull/2873) in [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
-2. ❗ Opened issue [#2872](https://github.com/keptn/lifecycle-toolkit/issues/2872) in [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
-3. ❗ Opened issue [#28](https://github.com/project-copacetic/copa-action/issues/28) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
-4. 💪 Opened PR [#63](https://github.com/sottlmarek/DevSecOps/pull/63) in [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
-5. 🗣 Commented on [#472](https://github.com/project-copacetic/copacetic/issues/472#issuecomment-1894987921) in [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic)
+1. 🗣 Commented on [#1](https://github.com/NitroCao/CVE-2024-21626/issues/1#issuecomment-1923300148) in [NitroCao/CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626)
+2. ❗ Opened issue [#1](https://github.com/NitroCao/CVE-2024-21626/issues/1) in [NitroCao/CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626)
+3. 🎉 Merged PR [#1](https://github.com/stackzoo/khaos/pull/1) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
+4. 🗣 Commented on [#1](https://github.com/stackzoo/khaos/pull/1#issuecomment-1919257811) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
+5. 💪 Opened PR [#1](https://github.com/stackzoo/khaos/pull/1) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
 <!--END_SECTION:activity-->
 
 <br/>
