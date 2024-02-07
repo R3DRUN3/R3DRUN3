@@ -161,11 +161,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NitroCao/CVE-2024-21626/issues/1#issuecomment-1923300148) in [NitroCao/CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626)
-2. ❗ Opened issue [#1](https://github.com/NitroCao/CVE-2024-21626/issues/1) in [NitroCao/CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626)
-3. 🎉 Merged PR [#1](https://github.com/stackzoo/khaos/pull/1) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
-4. 🗣 Commented on [#1](https://github.com/stackzoo/khaos/pull/1#issuecomment-1919257811) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
-5. 💪 Opened PR [#1](https://github.com/stackzoo/khaos/pull/1) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
+1. ❗ Opened issue [#924](https://github.com/k8sgpt-ai/k8sgpt/issues/924) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+2. 💪 Opened PR [#922](https://github.com/k8sgpt-ai/k8sgpt/pull/922) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+3. ❗ Opened issue [#921](https://github.com/k8sgpt-ai/k8sgpt/issues/921) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+4. ❗ Opened issue [#33](https://github.com/project-copacetic/copa-action/issues/33) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
+5. 🗣 Commented on [#373](https://github.com/facebookresearch/llama/issues/373#issuecomment-1929077542) in [facebookresearch/llama](https://github.com/facebookresearch/llama)
 <!--END_SECTION:activity-->
 
 <br/>
