@@ -161,11 +161,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#924](https://github.com/k8sgpt-ai/k8sgpt/issues/924) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-2. 💪 Opened PR [#922](https://github.com/k8sgpt-ai/k8sgpt/pull/922) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-3. ❗ Opened issue [#921](https://github.com/k8sgpt-ai/k8sgpt/issues/921) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-4. ❗ Opened issue [#33](https://github.com/project-copacetic/copa-action/issues/33) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
-5. 🗣 Commented on [#373](https://github.com/facebookresearch/llama/issues/373#issuecomment-1929077542) in [facebookresearch/llama](https://github.com/facebookresearch/llama)
+1. ❗ Opened issue [#246](https://github.com/getAlby/nostr-wallet-connect/issues/246) in [getAlby/nostr-wallet-connect](https://github.com/getAlby/nostr-wallet-connect)
+2. 💪 Opened PR [#35](https://github.com/project-copacetic/copa-action/pull/35) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
+3. ❗ Opened issue [#34](https://github.com/project-copacetic/copa-action/issues/34) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
+4. 🗣 Commented on [#33](https://github.com/project-copacetic/copa-action/issues/33#issuecomment-1932675741) in [project-copacetic/copa-action](https://github.com/project-copacetic/copa-action)
+5. ❗ Opened issue [#924](https://github.com/k8sgpt-ai/k8sgpt/issues/924) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
 <!--END_SECTION:activity-->
 
 <br/>
