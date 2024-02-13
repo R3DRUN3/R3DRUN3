@@ -138,8 +138,9 @@ If you'd like to buy me a ☕ you can send some *sats* to me@ln.stackzoo.io 😊
 
 ## 📰 Articles 🖊️  
 Between one clock cycle and another, I dedicate time to crafting professional articles on various technological topics.  
-Noteworthy among them are the following articles published by the **Cloud Native Computing Foundation**:
+Noteworthy among them are the following articles published by the **Cloud Native Computing Foundation**:  
 
+- [Anatomy of a CVE](https://www.cncf.io/blog/2024/02/13/anatomy-of-a-cve/)
 - [Codebreaking clouds: hacking cloud native environments through VAPT mastery](https://www.cncf.io/blog/2023/12/13/codebreaking-clouds-hacking-cloud-native-environments-through-vapt-mastery/)
 - [Secure your Kubernetes environment with OPA and Gatekeeper](https://www.cncf.io/blog/2023/10/09/secure-your-kubernetes-environment-with-opa-and-gatekeeper/)
 - [Supply chain security framework: S2C2F](https://www.cncf.io/blog/2023/08/04/supply-chain-security-framework-s2c2f/)  
