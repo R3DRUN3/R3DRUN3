@@ -162,11 +162,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
-2. 🗣 Commented on [#191](https://github.com/cyberark/ansible-conjur-collection/issues/191#issuecomment-1943613230) in [cyberark/ansible-conjur-collection](https://github.com/cyberark/ansible-conjur-collection)
-3. 🗣 Commented on [#176](https://github.com/cyberark/conjur-api-go/issues/176#issuecomment-1943391839) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
-4. 🔓 Reopened issue [#176](https://github.com/cyberark/conjur-api-go/issues/176) in [cyberark/conjur-api-go](https://github.com/cyberark/conjur-api-go)
-5. ❗ Opened issue [#246](https://github.com/getAlby/nostr-wallet-connect/issues/246) in [getAlby/nostr-wallet-connect](https://github.com/getAlby/nostr-wallet-connect)
+1. ❗ Opened issue [#4349](https://github.com/chaos-mesh/chaos-mesh/issues/4349) in [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
+2. 🗣 Commented on [#5](https://github.com/R3DRUN3/github-content-sync/issues/5#issuecomment-1951919968) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+3. 🔒 Closed issue [#5](https://github.com/R3DRUN3/github-content-sync/issues/5) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+4. 🗣 Commented on [#5](https://github.com/R3DRUN3/github-content-sync/issues/5#issuecomment-1951919407) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+5. ❗ Opened issue [#5](https://github.com/R3DRUN3/github-content-sync/issues/5) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 <!--END_SECTION:activity-->
 
 <br/>
