@@ -162,11 +162,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4349](https://github.com/chaos-mesh/chaos-mesh/issues/4349) in [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
-2. 🗣 Commented on [#5](https://github.com/R3DRUN3/github-content-sync/issues/5#issuecomment-1951919968) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-3. 🔒 Closed issue [#5](https://github.com/R3DRUN3/github-content-sync/issues/5) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-4. 🗣 Commented on [#5](https://github.com/R3DRUN3/github-content-sync/issues/5#issuecomment-1951919407) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-5. ❗ Opened issue [#5](https://github.com/R3DRUN3/github-content-sync/issues/5) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+1. ❗ Opened issue [#6781](https://github.com/dagger/dagger/issues/6781) in [dagger/dagger](https://github.com/dagger/dagger)
+2. ❗ Opened issue [#4349](https://github.com/chaos-mesh/chaos-mesh/issues/4349) in [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
+3. 🗣 Commented on [#5](https://github.com/R3DRUN3/github-content-sync/issues/5#issuecomment-1951919968) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+4. 🔒 Closed issue [#5](https://github.com/R3DRUN3/github-content-sync/issues/5) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+5. 🗣 Commented on [#5](https://github.com/R3DRUN3/github-content-sync/issues/5#issuecomment-1951919407) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 <!--END_SECTION:activity-->
 
 <br/>
