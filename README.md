@@ -162,11 +162,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
-2. ❗ Opened issue [#6781](https://github.com/dagger/dagger/issues/6781) in [dagger/dagger](https://github.com/dagger/dagger)
-3. ❗ Opened issue [#4349](https://github.com/chaos-mesh/chaos-mesh/issues/4349) in [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
-4. 🗣 Commented on [#5](https://github.com/R3DRUN3/github-content-sync/issues/5#issuecomment-1951919968) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-5. 🔒 Closed issue [#5](https://github.com/R3DRUN3/github-content-sync/issues/5) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+1. 🗣 Commented on [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209#issuecomment-1999101543) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
+2. 🎉 Merged PR [#2](https://github.com/stackzoo/khaos/pull/2) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
+3. 🗣 Commented on [#2](https://github.com/stackzoo/khaos/pull/2#issuecomment-1996825551) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
+4. 💪 Opened PR [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
+5. ❗ Opened issue [#6781](https://github.com/dagger/dagger/issues/6781) in [dagger/dagger](https://github.com/dagger/dagger)
 <!--END_SECTION:activity-->
 
 <br/>
