@@ -58,7 +58,7 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 
 I operate and maintain my own instance of a full ₿itcoin and Lightning⚡ node!  
-If you'd like to buy me a ☕ you can send some *sats* to me@ln.stackzoo.io 😊
+If you'd like to buy me a 🍕 you can send some *sats* to me@ln.stackzoo.io 😊
 
 <br/>
 
