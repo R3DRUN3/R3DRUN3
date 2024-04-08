@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 - **Forecaster**
 - **Open Source Contributor**
-- **Designing and Securing Distributed Systems**
+- **Secure Distributed Systems Designer**
+- **Part-time hacker** 👾
 - ![](https://img.shields.io/badge/Running-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
 
 in the end just a collection of quantum bits,
