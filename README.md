@@ -149,10 +149,10 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#520](https://github.com/Azure/apiops/pull/520) in [Azure/apiops](https://github.com/Azure/apiops)
-2. ❗ Opened issue [#519](https://github.com/Azure/apiops/issues/519) in [Azure/apiops](https://github.com/Azure/apiops)
-3. ❗ Opened issue [#506](https://github.com/Azure/apiops/issues/506) in [Azure/apiops](https://github.com/Azure/apiops)
-4. 🗣 Commented on [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209#issuecomment-1999101543) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
+1. 🗣 Commented on [#6](https://github.com/R3DRUN3/github-content-sync/issues/6#issuecomment-2068068011) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+2. 🎉 Merged PR [#3](https://github.com/stackzoo/khaos/pull/3) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
+3. 💪 Opened PR [#520](https://github.com/Azure/apiops/pull/520) in [Azure/apiops](https://github.com/Azure/apiops)
+4. ❗ Opened issue [#519](https://github.com/Azure/apiops/issues/519) in [Azure/apiops](https://github.com/Azure/apiops)
 5. 🎉 Merged PR [#2](https://github.com/stackzoo/khaos/pull/2) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
 <!--END_SECTION:activity-->
 
