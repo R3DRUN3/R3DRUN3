@@ -55,7 +55,7 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 <div id="TryHackMe">
   <a href="https://tryhackme.com/p/0xr3d/">
-    <img src="https://i.postimg.cc/JhST8njk/0xr3d.png" alt="TryHackMe"/>
+    <img src="https://i.postimg.cc/FHFmk91q/0xr3d.png" alt="TryHackMe"/>
   </a>
 </div>
 
