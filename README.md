@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - **Open Source Contributor**
 - **Security & Automation Engineer**
 - **Part-time hacker** 👾
-- ![](https://img.shields.io/badge/Running-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
 
 in the end just a collection of quantum bits,
 <br/>
@@ -43,6 +42,7 @@ constantly phasing between cyberspace and meatspace.
 
 ![](https://komarev.com/ghpvc/?username=r3drun3&label=PROFILE+VIEWS&color=brightgreen)
 
+<br/>
 <br/>
 
 ## 💁 Socials
@@ -60,12 +60,7 @@ constantly phasing between cyberspace and meatspace.
 </div>
 
 
-
 <br/>
-
-I operate and maintain my own instance of a full ₿itcoin and Lightning⚡ node!  
-If you'd like to buy me a 🍕 you can send some *sats* to me@ln.stackzoo.io 😊
-
 <br/>
 
 
@@ -137,6 +132,15 @@ Noteworthy among them are the following articles published by the **Cloud Native
 - [Secure your Kubernetes environment with OPA and Gatekeeper](https://www.cncf.io/blog/2023/10/09/secure-your-kubernetes-environment-with-opa-and-gatekeeper/)
 - [Supply chain security framework: S2C2F](https://www.cncf.io/blog/2023/08/04/supply-chain-security-framework-s2c2f/)  
 
+<br/>
+
+<br/> 
+
+![](https://img.shields.io/badge/Running-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)  
+I operate and maintain my own instance of a full ₿itcoin and Lightning⚡ node!  
+If you'd like to buy me a 🍕 you can send some *sats* to me@ln.stackzoo.io 😊  
+
+<br/>
 <br/>
 
 
