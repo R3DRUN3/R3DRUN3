@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - **Forecaster**
 - **Open Source Contributor**
-- **Cybersecurity Engineer**
+- **Security & Automation Engineer**
 - **Part-time hacker** 👾
 - ![](https://img.shields.io/badge/Running-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)
 
