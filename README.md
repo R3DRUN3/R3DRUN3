@@ -158,10 +158,10 @@ If you'd like to buy me a 🍕 you can send some *sats* to me@ln.stackzoo.io �
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/Azure/apiops/issues/217#issuecomment-2082817330) in [Azure/apiops](https://github.com/Azure/apiops)
-2. 🗣 Commented on [#6](https://github.com/R3DRUN3/github-content-sync/issues/6#issuecomment-2068068011) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-3. 🎉 Merged PR [#3](https://github.com/stackzoo/khaos/pull/3) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
-4. 💪 Opened PR [#520](https://github.com/Azure/apiops/pull/520) in [Azure/apiops](https://github.com/Azure/apiops)
+1. 💪 Opened PR [#117](https://github.com/fire1ce/3os.org/pull/117) in [fire1ce/3os.org](https://github.com/fire1ce/3os.org)
+2. 🗣 Commented on [#217](https://github.com/Azure/apiops/issues/217#issuecomment-2082817330) in [Azure/apiops](https://github.com/Azure/apiops)
+3. 🗣 Commented on [#6](https://github.com/R3DRUN3/github-content-sync/issues/6#issuecomment-2068068011) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+4. 🎉 Merged PR [#3](https://github.com/stackzoo/khaos/pull/3) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
 5. ❗ Opened issue [#519](https://github.com/Azure/apiops/issues/519) in [Azure/apiops](https://github.com/Azure/apiops)
 <!--END_SECTION:activity-->
 
