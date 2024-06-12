@@ -136,10 +136,6 @@ Noteworthy among them are the following articles published by the **Cloud Native
 
 <br/> 
 
-![](https://img.shields.io/badge/Running-bitcoin-informational?style=flat&logo=bitcoin&color=f2a900)  
-I operate and maintain my own instance of a full ₿itcoin and Lightning⚡ node!  
-If you'd like to buy me a 🍕 you can send some *sats* to me@ln.stackzoo.io 😊  
-
 <br/>
 <br/>
 
