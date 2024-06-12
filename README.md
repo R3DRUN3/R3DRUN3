@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 # About ᚱᛊᚧᚱVᚺᛊ  ✍️  
 
-- **Forecaster**
-- **Open Source Contributor**
 - **Security & Automation Engineer**
 - **Part-time hacker** 👾
+- **Open Source Contributor**
+- **Forecaster**
+
 
 in the end just a collection of quantum bits,
 <br/>
