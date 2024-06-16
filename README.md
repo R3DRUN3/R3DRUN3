@@ -75,6 +75,10 @@ constantly phasing between cyberspace and meatspace.
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&color=ffff1a)
 <br/>
 <br/>
+![](https://img.shields.io/badge/Tool-burp-informational?style=flat&logo=burpsuite&color=FFFFFF)
+![](https://img.shields.io/badge/Tool-metasploit-informational?style=flat&logo=metasploit&color=2687b1)
+![](https://img.shields.io/badge/Tool-powershell-informational?style=flat&logo=powershell&color=2259b4)
+<br/>
 ![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git&color=ff0000)
 ![](https://img.shields.io/badge/Tool-github-informational?style=flat&logo=github&color=4078c0)
 ![](https://img.shields.io/badge/Tool-GitHub_Actions-informational?style=flat&logo=github-actions&color=6524E8)
@@ -92,7 +96,7 @@ constantly phasing between cyberspace and meatspace.
 ![](https://img.shields.io/badge/Tool-cilium-informational?style=flat&logo=cilium&color=34F727)
 <br/>
 ![](https://img.shields.io/badge/Tool-snyk-informational?style=flat&logo=snyk&color=9538F3)
-![](https://img.shields.io/badge/Tool-tekton-informational?style=flat&logo=tektonk&color=279CF7)
+![](https://img.shields.io/badge/Tool-tekton-informational?style=flat&logo=Tekton&color=279CF7)
 ![](https://img.shields.io/badge/Tool-OPA-informational?style=flat&logo=open-policy-agent&color=B6BFC5)
 ![](https://img.shields.io/badge/Tool-rabbitmq-informational?style=flat&logo=rabbitmq&color=E87D24)
 ![](https://img.shields.io/badge/Tool-chainguard-informational?style=flat&logo=chainguard&color=141DE8)
