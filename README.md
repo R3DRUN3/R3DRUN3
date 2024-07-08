@@ -163,9 +163,9 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209#issuecomment-2151808141) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
-2. 💪 Opened PR [#117](https://github.com/fire1ce/3os.org/pull/117) in [fire1ce/3os.org](https://github.com/fire1ce/3os.org)
-3. 🗣 Commented on [#217](https://github.com/Azure/apiops/issues/217#issuecomment-2082817330) in [Azure/apiops](https://github.com/Azure/apiops)
+1. 💪 Opened PR [#9](https://github.com/R3DRUN3/github-content-sync/pull/9) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+2. 💪 Opened PR [#8](https://github.com/R3DRUN3/github-content-sync/pull/8) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+3. 🗣 Commented on [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209#issuecomment-2151808141) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
 4. 🗣 Commented on [#6](https://github.com/R3DRUN3/github-content-sync/issues/6#issuecomment-2068068011) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 5. 🎉 Merged PR [#3](https://github.com/stackzoo/khaos/pull/3) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
 <!--END_SECTION:activity-->
