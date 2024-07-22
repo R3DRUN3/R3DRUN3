@@ -163,11 +163,11 @@ Noteworthy among them are the following articles published by the **Cloud Native
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/R3DRUN3/github-content-sync/pull/9) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-2. 💪 Opened PR [#8](https://github.com/R3DRUN3/github-content-sync/pull/8) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-3. 🗣 Commented on [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209#issuecomment-2151808141) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
-4. 🗣 Commented on [#6](https://github.com/R3DRUN3/github-content-sync/issues/6#issuecomment-2068068011) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-5. 🎉 Merged PR [#3](https://github.com/stackzoo/khaos/pull/3) in [stackzoo/khaos](https://github.com/stackzoo/khaos)
+1. ❌ Closed PR [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
+2. ❌ Closed PR [#8](https://github.com/R3DRUN3/github-content-sync/pull/8) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+3. 🗣 Commented on [#9](https://github.com/R3DRUN3/github-content-sync/pull/9#issuecomment-2236151896) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+4. ❌ Closed PR [#9](https://github.com/R3DRUN3/github-content-sync/pull/9) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+5. 🎉 Merged PR [#10](https://github.com/R3DRUN3/github-content-sync/pull/10) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 <!--END_SECTION:activity-->
 
 <br/>
