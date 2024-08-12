@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 # About ᚱᛊᚧᚱVᚺᛊ  ✍️  
 
-- **Security & Automation Engineer**
+- **Security & Automation Engineer** 🔐
 - **Part-time hacker** 👾
-- **Open Source Contributor**
-- **Forecaster**
+- **Open Source Contributor** 💻
+- **Prediction Markets Forecaster** 🌐📊
 - **Precision Gun Shooting Enthusiast** 🎯🔫
 
 
