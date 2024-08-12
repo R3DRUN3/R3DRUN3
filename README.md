@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - **Part-time hacker** 👾
 - **Open Source Contributor**
 - **Forecaster**
+- **Precision Gun Shooting Enthusiast** 🎯🔫
 
 
 in the end just a collection of quantum bits,
