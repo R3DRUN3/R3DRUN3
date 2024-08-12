@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 # About ᚱᛊᚧᚱVᚺᛊ  ✍️  
 
-- **Security & Automation Engineer** 🔐
-- **Part-time hacker** 👾
-- **Open Source Contributor** 💻
+- **Security & Automation Engineer** 🔐🛡️
+- **Part-time hacker** 👾🏴‍☠️
+- **Open Source Contributor** 🧑‍💻
 - **Prediction Markets Forecaster** 🌐📊
-- **Precision Gun Shooting Enthusiast** 🎯🔫
+- **Tactical Shooting Enthusiast** 🎯🔫
 
 
 in the end just a collection of quantum bits,
