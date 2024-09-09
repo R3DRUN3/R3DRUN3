@@ -165,9 +165,9 @@ Noteworthy among them are the following articles, some of them have been publish
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#209](https://github.com/sighupio/fury-distribution-container-image-sync/pull/209) in [sighupio/fury-distribution-container-image-sync](https://github.com/sighupio/fury-distribution-container-image-sync)
-2. ❌ Closed PR [#8](https://github.com/R3DRUN3/github-content-sync/pull/8) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-3. 🗣 Commented on [#9](https://github.com/R3DRUN3/github-content-sync/pull/9#issuecomment-2236151896) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+1. 💪 Opened PR [#11](https://github.com/R3DRUN3/github-content-sync/pull/11) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+2. 🗣 Commented on [#1](https://github.com/R3DRUN3/sploitcraft/pull/1#issuecomment-2328212550) in [R3DRUN3/sploitcraft](https://github.com/R3DRUN3/sploitcraft)
+3. 🎉 Merged PR [#1](https://github.com/R3DRUN3/sploitcraft/pull/1) in [R3DRUN3/sploitcraft](https://github.com/R3DRUN3/sploitcraft)
 4. ❌ Closed PR [#9](https://github.com/R3DRUN3/github-content-sync/pull/9) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 5. 🎉 Merged PR [#10](https://github.com/R3DRUN3/github-content-sync/pull/10) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 <!--END_SECTION:activity-->
