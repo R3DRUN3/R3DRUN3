@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 # About ᚱᛊᚧᚱVᚺᛊ  ✍️  
 
 - **Security & Automation Engineer** 🔐🛡️
-- **Part-time hacker** 👾🏴‍☠️
-- **Open Source Contributor** 🧑‍💻
+- **Hacker/Red Teamer 🏴‍☠️🔴**    
+- **Open Source Contributor** 👨‍💻 ✅
 - **Prediction Markets Forecaster** 🌐📊
 - **Tactical Shooting Enthusiast** 🎯🔫
+- **Libertarian** ⚫🟡
 
 
 in the end just a collection of quantum bits,
