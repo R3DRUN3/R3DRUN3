@@ -135,8 +135,8 @@ constantly phasing between cyberspace and meatspace.
 <br/>
 
 ## 📰 Articles 🖊️  
-Between one clock cycle and another, I dedicate time to crafting professional articles on various technological topics.  
-Noteworthy among them are the following articles, some of them have been published by the **Cloud Native Computing Foundation**:  
+Between clock cycles, I dedicate time to crafting professional articles on various technological topics (mostly related to security).  
+Noteworthy among them are the following, with some having been published by the **Cloud Native Computing Foundation**:  
 
 - [Codebreaking clouds: hacking cloud native environments through VAPT mastery](https://www.cncf.io/blog/2023/12/13/codebreaking-clouds-hacking-cloud-native-environments-through-vapt-mastery/)
 - [Exploiting the Matrix: Offensive Techniques for Attacking AI Models](https://www.neteye-blog.com/2024/08/exploiting-the-matrix-offensive-techniques-for-attacking-ai-models/)
