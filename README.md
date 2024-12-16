@@ -166,9 +166,9 @@ Noteworthy among them are the following, with some having been published by the 
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/R3DRUN3/github-content-sync/pull/12) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-2. 🎉 Merged PR [#2](https://github.com/R3DRUN3/bitcoin-address-miner/pull/2) in [R3DRUN3/bitcoin-address-miner](https://github.com/R3DRUN3/bitcoin-address-miner)
-3. 💪 Opened PR [#11](https://github.com/R3DRUN3/github-content-sync/pull/11) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+1. 🔒 Closed issue [#6](https://github.com/R3DRUN3/github-content-sync/issues/6) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+2. 💪 Opened PR [#12](https://github.com/R3DRUN3/github-content-sync/pull/12) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+3. 🎉 Merged PR [#2](https://github.com/R3DRUN3/bitcoin-address-miner/pull/2) in [R3DRUN3/bitcoin-address-miner](https://github.com/R3DRUN3/bitcoin-address-miner)
 4. 🎉 Merged PR [#1](https://github.com/R3DRUN3/sploitcraft/pull/1) in [R3DRUN3/sploitcraft](https://github.com/R3DRUN3/sploitcraft)
 5. 🎉 Merged PR [#10](https://github.com/R3DRUN3/github-content-sync/pull/10) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 <!--END_SECTION:activity-->
