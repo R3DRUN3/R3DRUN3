@@ -184,10 +184,10 @@ Noteworthy among them are the following, with some having been published by the 
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/R3DRUN3/github-content-sync/pull/14) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-2. 💪 Opened PR [#13](https://github.com/R3DRUN3/github-content-sync/pull/13) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-3. 🔒 Closed issue [#6](https://github.com/R3DRUN3/github-content-sync/issues/6) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-4. 💪 Opened PR [#12](https://github.com/R3DRUN3/github-content-sync/pull/12) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+1. 🗣 Commented on [#2](https://github.com/R3DRUN3/vermilion/pull/2#issuecomment-2571757516) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
+2. 🗣 Commented on [#2](https://github.com/R3DRUN3/vermilion/pull/2#issuecomment-2571757345) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
+3. 🗣 Commented on [#2](https://github.com/R3DRUN3/vermilion/pull/2#issuecomment-2571589130) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
+4. ❌ Closed PR [#2](https://github.com/R3DRUN3/vermilion/pull/2) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
 5. 🎉 Merged PR [#2](https://github.com/R3DRUN3/bitcoin-address-miner/pull/2) in [R3DRUN3/bitcoin-address-miner](https://github.com/R3DRUN3/bitcoin-address-miner)
 <!--END_SECTION:activity-->
 
