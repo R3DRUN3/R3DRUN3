@@ -156,9 +156,9 @@ constantly phasing between cyberspace and meatspace.
 Between clock cycles, I dedicate time to crafting professional articles on various technological topics (mostly related to security).  
 Noteworthy among them are the following, with some having been published by the **Cloud Native Computing Foundation**:  
 
-
-- [Stay ahead of Cyber Threats: Redefining Security for a rapidly changing Digital World](https://www.neteye-blog.com/2025/01/stay-ahead-of-cyber-threats-redefining-security-for-a-rapidly-changing-digital-world/)
 - [Exploiting the Matrix: Offensive Techniques for Attacking AI Models](https://www.neteye-blog.com/2024/08/exploiting-the-matrix-offensive-techniques-for-attacking-ai-models/)
+- [Stay ahead of Cyber Threats: Redefining Security for a rapidly changing Digital World](https://www.neteye-blog.com/2025/01/stay-ahead-of-cyber-threats-redefining-security-for-a-rapidly-changing-digital-world/)
+- [Inside the Red Team Toolbox: Linux Info-Gathering](https://www.neteye-blog.com/2025/01/inside-the-red-team-toolbox-linux-info-gathering/)
 - [Codebreaking clouds: hacking cloud native environments through VAPT mastery](https://www.cncf.io/blog/2023/12/13/codebreaking-clouds-hacking-cloud-native-environments-through-vapt-mastery/)
 - [Anatomy of a CVE](https://www.cncf.io/blog/2024/02/13/anatomy-of-a-cve/)
 - [Secure your Kubernetes environment with OPA and Gatekeeper](https://www.cncf.io/blog/2023/10/09/secure-your-kubernetes-environment-with-opa-and-gatekeeper/)
