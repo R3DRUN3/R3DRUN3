@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - **Open Source Contributor** 👨‍💻 ✅
 - **Prediction Markets Forecaster** 🌐📊
 - **Tactical Shooting Enthusiast** 🎯🔫
-- **Libertarian** ⚫🟡
+- **Moderately Libertarian** ⚫🟡
 
 
 in the end just a collection of quantum bits,
