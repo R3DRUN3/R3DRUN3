@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 - **Security & Automation Engineer** 🔐🛡️
 - **Hacker/Red Teamer 🏴‍☠️🔴**    
 - **Open Source Contributor** 👨‍💻 ✅
-- **Prediction Markets Forecaster** 🌐📊
-- **Tactical Shooting Enthusiast** 🎯🔫
-- **Pragmatic Libertarian** ⚫🟡
 
 
 in the end just a collection of quantum bits,
