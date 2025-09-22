@@ -185,10 +185,10 @@ Noteworthy among them are the following, with some having been published by the 
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/R3DRUN3/github-content-sync/pull/25) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-2. 💪 Opened PR [#22](https://github.com/R3DRUN3/github-content-sync/pull/22) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-3. ❌ Closed PR [#72](https://github.com/jeffthibault/python-nostr/pull/72) in [jeffthibault/python-nostr](https://github.com/jeffthibault/python-nostr)
-4. 💪 Opened PR [#15](https://github.com/R3DRUN3/github-content-sync/pull/15) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+1. 🗣 Commented on [#3](https://github.com/R3DRUN3/vermilion/issues/3#issuecomment-3295449094) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
+2. 🔒 Closed issue [#3](https://github.com/R3DRUN3/vermilion/issues/3) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
+3. 🔓 Reopened issue [#3](https://github.com/R3DRUN3/vermilion/issues/3) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
+4. 🔒 Closed issue [#3](https://github.com/R3DRUN3/vermilion/issues/3) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
 5. ❌ Closed PR [#2](https://github.com/R3DRUN3/vermilion/pull/2) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
 <!--END_SECTION:activity-->
 
