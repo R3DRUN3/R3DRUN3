@@ -155,6 +155,7 @@ Noteworthy among them are the following, with some having been published by the 
 
 - [Exploiting the Matrix: Offensive Techniques for Attacking AI Models](https://www.neteye-blog.com/2024/08/exploiting-the-matrix-offensive-techniques-for-attacking-ai-models/)
 - [Why TLPT Is the Future of Financial Sector Cybersecurity](https://www.neteye-blog.com/2025/06/why-tlpt-is-the-future-of-financial-sector-cybersecurity/)
+- [The Evolving Security Landscape of MCP](https://www.neteye-blog.com/2025/09/the-evolving-security-landscape-of-mcp/)
 - [Stay ahead of Cyber Threats: Redefining Security for a rapidly changing Digital World](https://www.neteye-blog.com/2025/01/stay-ahead-of-cyber-threats-redefining-security-for-a-rapidly-changing-digital-world/)
 - [Inside the Red Team Toolbox: Linux Info-Gathering](https://www.neteye-blog.com/2025/01/inside-the-red-team-toolbox-linux-info-gathering/)
 - [Building a Distributed DDoS Infrastructure for Red Teaming Campaigns](https://www.neteye-blog.com/2025/02/building-a-distributed-ddos-infrastructure-for-red-teaming-campaigns/)
