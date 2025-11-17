@@ -202,9 +202,9 @@ Noteworthy among them are the following, with some having been published by the 
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](undefined) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-2. 🔒 Closed issue [#3](https://github.com/R3DRUN3/vermilion/issues/3) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
-3. 🔓 Reopened issue [#3](https://github.com/R3DRUN3/vermilion/issues/3) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
+1. 💪 Opened PR [#29](undefined) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
+2. 🗣 Commented on [#191](https://github.com/cyberark/ansible-conjur-collection/issues/191#issuecomment-3516335436) in [cyberark/ansible-conjur-collection](https://github.com/cyberark/ansible-conjur-collection)
+3. 🔒 Closed issue [#191](https://github.com/cyberark/ansible-conjur-collection/issues/191) in [cyberark/ansible-conjur-collection](https://github.com/cyberark/ansible-conjur-collection)
 4. 🔒 Closed issue [#3](https://github.com/R3DRUN3/vermilion/issues/3) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
 5. ❌ Closed PR [#2](https://github.com/R3DRUN3/vermilion/pull/2) in [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion)
 <!--END_SECTION:activity-->
