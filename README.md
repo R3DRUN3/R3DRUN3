@@ -203,8 +203,8 @@ Noteworthy among them are the following, with some having been published by the 
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/R3DRUN3/magnet/pull/1#issuecomment-3585921185) in [R3DRUN3/magnet](https://github.com/R3DRUN3/magnet)
-2. 🔒 Closed issue [#258](https://github.com/cyberark/conjur-puppet/issues/258) in [cyberark/conjur-puppet](https://github.com/cyberark/conjur-puppet)
+1. 🗣 Commented on [#21210](https://github.com/n8n-io/n8n/issues/21210#issuecomment-3748464429) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
+2. 🗣 Commented on [#21210](https://github.com/n8n-io/n8n/issues/21210#issuecomment-3744481215) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
 3. 🗣 Commented on [#258](https://github.com/cyberark/conjur-puppet/issues/258#issuecomment-3561921069) in [cyberark/conjur-puppet](https://github.com/cyberark/conjur-puppet)
 4. 💪 Opened PR [#29](undefined) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
 5. 🗣 Commented on [#191](https://github.com/cyberark/ansible-conjur-collection/issues/191#issuecomment-3516335436) in [cyberark/ansible-conjur-collection](https://github.com/cyberark/ansible-conjur-collection)
