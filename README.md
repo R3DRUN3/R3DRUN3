@@ -203,11 +203,11 @@ Noteworthy among them are the following, with some having been published by the 
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8897](https://github.com/prowler-cloud/prowler/issues/8897#issuecomment-3779657089) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
-2. 🗣 Commented on [#21210](https://github.com/n8n-io/n8n/issues/21210#issuecomment-3748464429) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
-3. 🗣 Commented on [#21210](https://github.com/n8n-io/n8n/issues/21210#issuecomment-3744481215) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
-4. 💪 Opened PR [#29](undefined) in [R3DRUN3/github-content-sync](https://github.com/R3DRUN3/github-content-sync)
-5. 🗣 Commented on [#191](https://github.com/cyberark/ansible-conjur-collection/issues/191#issuecomment-3516335436) in [cyberark/ansible-conjur-collection](https://github.com/cyberark/ansible-conjur-collection)
+1. 🗣 Commented on [#9337](https://github.com/prowler-cloud/prowler/issues/9337#issuecomment-3788832951) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+2. 🗣 Commented on [#9337](https://github.com/prowler-cloud/prowler/issues/9337#issuecomment-3783313957) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+3. 🗣 Commented on [#8897](https://github.com/prowler-cloud/prowler/issues/8897#issuecomment-3779657089) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+4. 🗣 Commented on [#21210](https://github.com/n8n-io/n8n/issues/21210#issuecomment-3748464429) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
+5. 🗣 Commented on [#21210](https://github.com/n8n-io/n8n/issues/21210#issuecomment-3744481215) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
 <!--END_SECTION:activity-->
 
 <br/>
