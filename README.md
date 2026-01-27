@@ -170,6 +170,7 @@ Between clock cycles, I dedicate time to crafting professional articles on vario
 Noteworthy among them are the following, with some having been published by the **Cloud Native Computing Foundation**:  
 
 - [Exploiting the Matrix: Offensive Techniques for Attacking AI Models](https://www.neteye-blog.com/2024/08/exploiting-the-matrix-offensive-techniques-for-attacking-ai-models/)
+- [Architecting a Portable Red Team Engine](https://www.neteye-blog.com/2026/01/architecting-a-portable-red-team-engine/)
 - [Purple Teaming is a MUST, not a PLUS](https://www.neteye-blog.com/2026/01/purple-teaming-is-a-must-not-a-plus/)
 - [Why TLPT Is the Future of Financial Sector Cybersecurity](https://www.neteye-blog.com/2025/06/why-tlpt-is-the-future-of-financial-sector-cybersecurity/)
 - [The Evolving Security Landscape of MCP](https://www.neteye-blog.com/2025/09/the-evolving-security-landscape-of-mcp/)
