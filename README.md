@@ -65,19 +65,6 @@ constantly phasing between cyberspace and meatspace.
 
 
 
-## ☕ Buy Me a Coffee  
-
-
-If you find value in my work, consider sending a small [![Lightning Tip](https://img.shields.io/badge/⚡%20Lightning%20Tip-blue?style=flat-square&logo=bitcoin&logoColor=white)](lightning:your@lightning.address) to the following (decoy) address:
-
-**⚡ `smallfiction78@walletofsatoshi.com`**
-
-You can also scan the QR code below:
-
-![Lightning QR](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=lightning:smallfiction78@walletofsatoshi.com)
-
-
-<br/>
 
 
 ## 🖥️ Technical Stack ⚡
