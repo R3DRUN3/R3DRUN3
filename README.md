@@ -40,7 +40,9 @@ constantly phasing between cyberspace and meatspace.
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=r3drun3&label=PROFILE+VIEWS&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=r3drun3&label=PROFILE+VIEWS&color=brightgreen) 
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg)](https://r3drun3.github.io/donate.html)
+
 
 <br/>
 <br/>
