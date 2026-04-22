@@ -158,6 +158,7 @@ constantly phasing between cyberspace and meatspace.
 Between clock cycles, I dedicate time to crafting professional articles on various technological topics (mostly related to security).  
 Noteworthy among them are the following, with some having been published by the **Cloud Native Computing Foundation**:  
 
+- [The Ghost in the Kernel Machine](https://www.neteye-blog.com/2026/04/the-ghost-in-the-kernel-machine/)
 - [Exploiting the Matrix: Offensive Techniques for Attacking AI Models](https://www.neteye-blog.com/2024/08/exploiting-the-matrix-offensive-techniques-for-attacking-ai-models/)
 - [Architecting a Portable Red Team Engine](https://www.neteye-blog.com/2026/01/architecting-a-portable-red-team-engine/)
 - [Purple Teaming is a MUST, not a PLUS](https://www.neteye-blog.com/2026/01/purple-teaming-is-a-must-not-a-plus/)
