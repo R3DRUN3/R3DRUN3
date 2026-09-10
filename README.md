@@ -160,6 +160,7 @@ Noteworthy among them are the following, with some having been published by the 
 
 - [The Ghost in the Kernel Machine](https://www.neteye-blog.com/2026/04/the-ghost-in-the-kernel-machine/)
 - [Exploiting the Matrix: Offensive Techniques for Attacking AI Models](https://www.neteye-blog.com/2024/08/exploiting-the-matrix-offensive-techniques-for-attacking-ai-models/)
+- [Red Team Phishing Operations: a Practical Guide to Mail Infrastructure](https://www.neteye-blog.com/blog/2026/09/10/red-team-phishing-operations-a-practical-guide-to-mail-infrastructure/)
 - [Architecting a Portable Red Team Engine](https://www.neteye-blog.com/2026/01/architecting-a-portable-red-team-engine/)
 - [Purple Teaming is a MUST, not a PLUS](https://www.neteye-blog.com/2026/01/purple-teaming-is-a-must-not-a-plus/)
 - [Why TLPT Is the Future of Financial Sector Cybersecurity](https://www.neteye-blog.com/2025/06/why-tlpt-is-the-future-of-financial-sector-cybersecurity/)
