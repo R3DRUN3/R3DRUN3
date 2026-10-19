@@ -195,7 +195,7 @@ Noteworthy among them are the following, with some having been published by the 
 ## Recent Activities on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9337](https://github.com/prowler-cloud/prowler/issues/9337#issuecomment-3957130341) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+1. ❌ Closed PR [#2](https://github.com/R3DRUN3/flowkit/pull/2) in [R3DRUN3/flowkit](https://github.com/R3DRUN3/flowkit)
 2. 🗣 Commented on [#9337](https://github.com/prowler-cloud/prowler/issues/9337#issuecomment-3875955110) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 3. 🗣 Commented on [#9337](https://github.com/prowler-cloud/prowler/issues/9337#issuecomment-3783313957) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 4. 🗣 Commented on [#8897](https://github.com/prowler-cloud/prowler/issues/8897#issuecomment-3779657089) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
