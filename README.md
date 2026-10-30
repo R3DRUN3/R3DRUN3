@@ -21,11 +21,29 @@ Here are some ideas to get you started:
 -->
 
 
-# About ᚱᛊᚧᚱVᚺᛊ  ✍️  
+```text
+██████╗ ██████╗ ██████╗ ██████╗ ██╗   ██╗███╗   ██╗██████╗
+██╔══██╗╚════██╗██╔══██╗██╔══██╗██║   ██║████╗  ██║╚════██╗
+██████╔╝ █████╔╝██║  ██║██████╔╝██║   ██║██╔██╗ ██║ █████╔╝
+██╔══██╗ ╚═══██╗██║  ██║██╔══██╗██║   ██║██║╚██╗██║ ╚═══██╗
+██║  ██║██████╔╝██████╔╝██║  ██║╚██████╔╝██║ ╚████║██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝
+```
 
-- **Security & Automation Engineer** 🔐🛡️
-- **Hacker/Red Teamer 🏴‍☠️🔴**    
-- **Open Source Contributor** 👨‍💻 ✅
+# `root@r3drun3:~# whoami`
+
+**`[ Simone Ragonesi / r3drun3 ]`**
+
+
+```bash
+┌──[ root@r3drun3 ]─[~/profile ]
+└─$ cat /etc/identity
+
+[+] ROLE      :: Security & Automation Engineer
+[+] ACCESS    :: Red Team / Offensive Security
+[+] STATUS   :: Open Source Contributor
+[+] MISSION  :: Break • Automate • Build • Repeat
+```
 
 
 in the end just a collection of quantum bits,
