@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝
 ```
 
+
 # `root@r3drun3:~# whoami`
 
 **`[ Simone Ragonesi / r3drun3 ]`**
@@ -39,10 +40,9 @@ Here are some ideas to get you started:
 ┌──[ root@r3drun3 ]─[~/profile ]
 └─$ cat /etc/identity
 
-[+] ROLE      :: Security & Automation Engineer
-[+] ACCESS    :: Red Team / Offensive Security
-[+] STATUS   :: Open Source Contributor
-[+] MISSION  :: Break • Automate • Build • Repeat
+[+] Security & Automation Engineer
+[+] Red Team / Offensive Security
+[+] Open Source Contributor
 ```
 
 
